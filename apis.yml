@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - SaaS Management
   - IT Asset Management
+  - SaaS Management
 url: >-
   https://raw.githubusercontent.com/api-evangelist/genuity/refs/heads/main/apis.yml
 created: '2026-03-27'

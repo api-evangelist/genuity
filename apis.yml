@@ -6,7 +6,7 @@ description: >-
   assets acquired by Level 3 Communications. Level 3 was later acquired by
   CenturyLink in 2017, which rebranded as Lumen Technologies. This repository
   tracks the legacy Genuity entity and its successor companies.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
